@@ -6,11 +6,11 @@
 
  body	 {
        font-family: "Comic Sans MS", "Comic Sans MS", fantasy;
- 	 color: #003366;
+ 	 color: #FFFFFF;
     	 }
 
  body	 {
-	 Background-color: #C0C0C0;
+	 Background-color: #F0F0F0;
 	 }
 
  h1 	 {
@@ -25,14 +25,14 @@
  	   border-collapse: collapse;
  	  }
 
- tr  	 {
-	  border: 1px solid #ffffff;
-	  text-align: center;
-	  background-color:#9FB6CD;
-  	 }
+#tr  	 {
+#	  border: 1px solid #ffffff;
+#	  text-align: center;
+#	  background-color:#9FB6CD;
+# 	 }
 
-th   	{
-	 text-align: center;
-	 color: #ffffff;
-	 background-color: #003366;
-	}
+#th   	{
+#	 text-align: center;
+#	 color: #ffffff;
+#	 background-color: #003366;
+#	}
