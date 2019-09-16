@@ -4,7 +4,7 @@
 	 background-color: #003366;
  	 }
 
- body	 {
+body	 {
          font-family: "Comic Sans MS", "Comic Sans MS", fantasy;
  	 color: #FFFFFF;
 	 }
@@ -13,8 +13,8 @@ body	 {
 	 Background-color: #D0D0D0;
 	 }
 
-body #aboutme {
-	  Background-iamge: url("myBackground (1).jpg");
+body     {
+	  Background-image: url("myBackground (1).jpg");
 	 }
 
  h1 	 {
