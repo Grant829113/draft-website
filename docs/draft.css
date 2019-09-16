@@ -20,28 +20,27 @@ body     {
  h1 	 {
  	   font-size: 1.3em;
  	   text-align: center;
-	   text-align: center;
   	  }
 
  h4 	 {
  	   font-size: 1.3em;
  	   text-align: center;
 	   text-align: center;
-	   margin-left: auto;
-	   margin-right: auto;
+	   margin-left: 250px;
+	   margin-right: 250px;
   	  }
 
 h2 	 {
  	   font-size: 1.3em;
  	   text-align: center;
 	   text-align: center;
-	   margin-left: auto;
-	   margin-right: auto;
+	   margin-left: 250px;
+	   margin-right: 250px;
   	  }
 
  table	  {
- 	   margin-left: auto;
- 	   margin-right: auto;
+ 	   margin-left: 250px;
+ 	   margin-right: 250px;
  	   text-align: center;
  	   border-collapse: collapse;
  	  }
