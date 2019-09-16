@@ -11,10 +11,8 @@ body	 {
 
 body	 {
 	 Background-color: #D0D0D0;
-	 }
-
-body     {
-	  Background-image: url("myBackground (1).jpg");
+	 Background-image: <img src="images/myBackground (1).jpg"/>
+         Background-image: url("myBackground (1).jpg");
 	 }
 
  h1 	 {
